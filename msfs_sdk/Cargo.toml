@@ -7,3 +7,4 @@ description = "Crate to find MSFS SDK"
 license-file = "../LICENSE"
 
 [dependencies]
+dotenv = "0.15"
